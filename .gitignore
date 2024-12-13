@@ -1,0 +1,20 @@
+# Ignore virtual environment
+.totp/
+
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment variables
+.env
+
+# macOS files
+.DS_Store
+
+# Log files
+*.log
+
+# System files
+.idea/
+.vscode/
